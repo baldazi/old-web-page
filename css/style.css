@@ -1,0 +1,9 @@
+/*body{background: linear-gradient(20deg,red,blue);}*/
+.a1{color:white; text-decoration:none;}
+.p1{color:lightblue; font-size:10px;}
+.log1{width:800px;height:800px;}
+@media only screen and (max-width:1300px){.log1{width:500px;height:500px;}}
+@media only screen and (max-width:500px){.log1{width:400px;height:400px;}}
+@media only screen and (max-width:300px){.log1{width:200px;height:200px;}}
+.frm{position:absolute;top:50%;left:50%;transform: translate(-50%,-50%);background:#c0c0c0; padding:15px; border-radius:25px;}
+.pl{text-decoration:none;}
